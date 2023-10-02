@@ -1,0 +1,7 @@
+total 10
+drwxr-xr-x 1 student 197121  0 Oct  2 11:52 ./
+drwxr-xr-x 1 student 197121  0 Oct  2 11:39 ../
+drwxr-xr-x 1 student 197121  0 Oct  2 11:39 .git/
+-rw-r--r-- 1 student 197121 32 Oct  2 11:39 README.md
+-rw-r--r-- 1 student 197121  0 Oct  2 11:59 test
+-rw-r--r-- 1 student 197121  8 Oct  2 11:46 test.txt
